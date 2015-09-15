@@ -1,0 +1,8 @@
+name: RabbitAbility
+main: me.Pdom.RabbitAbility.RabbitAbility
+version: 1.0
+commands:
+  ra:
+      description: RabbitAbility's command.
+      permission:
+      usage: /<command>
